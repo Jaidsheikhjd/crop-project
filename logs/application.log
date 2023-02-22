@@ -1,0 +1,68 @@
+2022-12-11 14:42:36.803  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Starting CropProjectApplication using Java 17.0.2 on jaid-sheikh with PID 15276 (D:\springboot_prog\crop_project\target\classes started by user in D:\springboot_prog\crop_project)
+2022-12-11 14:42:36.811  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-11 14:42:37.093  INFO 15276 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-11 14:42:37.141  INFO 15276 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42 ms. Found 3 JPA repository interfaces.
+2022-12-11 14:42:37.336  INFO 15276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-11 14:42:37.337  INFO 15276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-11 14:42:37.337  INFO 15276 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-12-11 14:42:37.377  INFO 15276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-11 14:42:37.383  INFO 15276 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 565 ms
+2022-12-11 14:42:37.469  INFO 15276 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-11 14:42:37.477  INFO 15276 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2022-12-11 14:42:37.510  INFO 15276 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2022-12-11 14:42:37.510  INFO 15276 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-11 14:42:37.614  INFO 15276 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-11 14:42:37.617  INFO 15276 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-11 14:42:37.909  WARN 15276 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-11 14:42:38.077  INFO 15276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-11 14:42:38.098  INFO 15276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-11 14:42:38.102  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Started CropProjectApplication in 1.352 seconds (JVM running for 19.469)
+2022-12-11 14:42:38.105  INFO 15276 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-12-11 14:42:39.539  INFO 15276 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2022-12-11 14:42:39.562  INFO 15276 --- [Thread-7] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2022-12-11 14:42:39.562  INFO 15276 --- [Thread-7] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-11 14:42:39.570  INFO 15276 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2022-12-11 14:42:39.590  INFO 15276 --- [Thread-7] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2022-12-11 14:42:39.683  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Starting CropProjectApplication using Java 17.0.2 on jaid-sheikh with PID 15276 (D:\springboot_prog\crop_project\target\classes started by user in D:\springboot_prog\crop_project)
+2022-12-11 14:42:39.685  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-11 14:42:39.892  INFO 15276 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-11 14:42:39.943  INFO 15276 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 42 ms. Found 3 JPA repository interfaces.
+2022-12-11 14:42:40.093  INFO 15276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-11 14:42:40.097  INFO 15276 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-11 14:42:40.097  INFO 15276 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-12-11 14:42:40.124  INFO 15276 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-11 14:42:40.129  INFO 15276 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 442 ms
+2022-12-11 14:42:40.183  INFO 15276 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-11 14:42:40.193  INFO 15276 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2022-12-11 14:42:40.211  INFO 15276 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2022-12-11 14:42:40.211  INFO 15276 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-11 14:42:40.309  INFO 15276 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-11 14:42:40.309  INFO 15276 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-11 14:42:40.614  WARN 15276 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-11 14:42:40.711  INFO 15276 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-11 14:42:40.719  INFO 15276 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-11 14:42:40.724  INFO 15276 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Started CropProjectApplication in 1.088 seconds (JVM running for 22.098)
+2022-12-11 14:42:40.739  INFO 15276 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-12-11 14:43:07.887  INFO 8968 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Starting CropProjectApplication using Java 17.0.2 on jaid-sheikh with PID 8968 (D:\springboot_prog\crop_project\target\classes started by user in D:\springboot_prog\crop_project)
+2022-12-11 14:43:07.887  INFO 8968 --- [restartedMain] c.c.crop_project.CropProjectApplication  : No active profile set, falling back to 1 default profile: "default"
+2022-12-11 14:43:07.995  INFO 8968 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-11 14:43:08.006  INFO 8968 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-11 14:43:08.830  INFO 8968 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-12-11 14:43:08.923  INFO 8968 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 70 ms. Found 3 JPA repository interfaces.
+2022-12-11 14:43:09.673  INFO 8968 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-12-11 14:43:09.693  INFO 8968 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-11 14:43:09.693  INFO 8968 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-12-11 14:43:09.815  INFO 8968 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-11 14:43:09.816  INFO 8968 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1810 ms
+2022-12-11 14:43:10.107  INFO 8968 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-12-11 14:43:10.163  INFO 8968 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-12-11 14:43:10.318  INFO 8968 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-12-11 14:43:10.431  INFO 8968 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-11 14:43:10.736  INFO 8968 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-12-11 14:43:10.763  INFO 8968 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-12-11 14:43:11.524  INFO 8968 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-12-11 14:43:11.539  INFO 8968 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-12-11 14:43:12.172  WARN 8968 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-12-11 14:43:12.524  INFO 8968 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-12-11 14:43:12.580  INFO 8968 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-12-11 14:43:12.609  INFO 8968 --- [restartedMain] c.c.crop_project.CropProjectApplication  : Started CropProjectApplication in 5.102 seconds (JVM running for 5.473)
